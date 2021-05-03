@@ -1,1 +1,2 @@
-#Discord Bot Structure
+# Discord Bot Structure
+This is a structure 
